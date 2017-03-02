@@ -1,0 +1,14 @@
+﻿<Window x:Class="WarframeAlertGrabberWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WarframeAlertGrabberWPF"
+        mc:Ignorable="d"
+        Title="Warframe Alert Grabber" Height="350" Width="525">
+    <Grid Background="#FFBFBFBF">
+        <TextBox x:Name="txtDisplay" ScrollViewer.VerticalScrollBarVisibility="Visible" Margin="10,50,10,10" TextWrapping="Wrap" Text="" Background="White"/>
+        <Label x:Name="lblName" Content="Warframe Alert Grabber" Margin="5,0,0,0" RenderTransformOrigin="-0.957,-0.054" FontSize="24" FontStyle="Italic" HorizontalAlignment="Left" Width="477" Foreground="#FF3661AC" FontFamily="Segoe UI Semibold" Height="45" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeAlertGrabberWPF", "WarframeAlertGrabberWPF\WarframeAlertGrabberWPF.csproj", "{92DD8821-AFC7-489E-A726-1F7348023935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeAlertGrabberWPF.Domain", "WarframeAlertGrabberWPF.Domain\WarframeAlertGrabberWPF.Domain.csproj", "{79C87E39-AE1A-456D-B7F0-9C6FECB1E055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeAlertGrabberWPF.Data", "WarframeAlertGrabberWPF.Data\WarframeAlertGrabberWPF.Data.csproj", "{221210B3-1252-4323-855E-FD3C3D9CCF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92DD8821-AFC7-489E-A726-1F7348023935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DD8821-AFC7-489E-A726-1F7348023935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DD8821-AFC7-489E-A726-1F7348023935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DD8821-AFC7-489E-A726-1F7348023935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C87E39-AE1A-456D-B7F0-9C6FECB1E055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C87E39-AE1A-456D-B7F0-9C6FECB1E055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C87E39-AE1A-456D-B7F0-9C6FECB1E055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C87E39-AE1A-456D-B7F0-9C6FECB1E055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221210B3-1252-4323-855E-FD3C3D9CCF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221210B3-1252-4323-855E-FD3C3D9CCF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221210B3-1252-4323-855E-FD3C3D9CCF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221210B3-1252-4323-855E-FD3C3D9CCF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
